@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.js",
     "scripts/seed.js"
-  ],
+, "../saper-test/app/not-found.tsx"  ],
   "exclude": ["node_modules"]
 }
